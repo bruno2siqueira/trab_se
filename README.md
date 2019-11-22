@@ -1,2 +1,5 @@
-# trab_se
-Arquivos fontes do trabalho final da disciplina de SISTEMAS EVOLUTIVOS, UFPEL (NOV. 2019)
+# Trabalho Final Disciplina de Sistemas Evolutivos, UFPEL 
+Trabalho realizado por Bruno Siqueira da Silva e Leandro Camargo
+Disciplina: Sistemas Evolutivos
+Prof. Marilton S. Aguiar.
+Linguagem: Python
