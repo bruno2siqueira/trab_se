@@ -1,7 +1,7 @@
 # Trabalho Final Disciplina de Sistemas Evolutivos, UFPEL 
  
 
-Repositório do Trabalho realizado na disciplina de Sistemas Evolutivos. UFPEL
+Repositório do Trabalho realizado na disciplina de Sistemas Evolutivos. UFPEL <https://github.com/bruno2siqueira/trab_se>
 
 Autores: Bruno Siqueira da Silva e Leandro Camargo
 
